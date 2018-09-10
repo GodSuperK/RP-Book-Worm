@@ -33,4 +33,4 @@
 | 作者         | Rowena Akinyemi |
 | 开始阅读日期 | 2018/9/1      |
 | 完成阅读日期 | None     |
-| 最新进度     | Chapter 1     |
+| 最新进度     | Chapter 3     |
